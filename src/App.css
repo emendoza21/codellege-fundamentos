@@ -1,3 +1,6 @@
+.App {
+  background-color: antiquewhite;
+}
 .container {
   display: flex;
   flex-wrap: wrap;
